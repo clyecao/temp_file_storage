@@ -1,0 +1,1 @@
+Put sftp-server to /usr/libexec/, then you could connect to miwifi with sftp client software like WinSCP.
